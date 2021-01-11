@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/01-springboot-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/012-springboot-dubbo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/019-springboot-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-springboot-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/022-springboot-dubbo-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/033-springboot-filter-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/034-springboot-filter-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/050-springboot-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/051-springboot-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/052-springboot-dubbo-ssm-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq_springboot" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/012-springboot-dubbo-provider/012-springboot-dubbo-provider.iml" filepath="$PROJECT_DIR$/012-springboot-dubbo-provider/012-springboot-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/019-springboot-redis/019-springboot-redis.iml" filepath="$PROJECT_DIR$/019-springboot-redis/019-springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-springboot-mybatis/02-springboot-mybatis.iml" filepath="$PROJECT_DIR$/02-springboot-mybatis/02-springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/020-spring-dubbo-interface/020-spring-dubbo-interface.iml" filepath="$PROJECT_DIR$/020-spring-dubbo-interface/020-spring-dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/022-springboot-dubbo-consumer/022-springboot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/022-springboot-dubbo-consumer/022-springboot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/033-springboot-filter-1/033-springboot-filter-1.iml" filepath="$PROJECT_DIR$/033-springboot-filter-1/033-springboot-filter-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/034-springboot-filter-2/034-springboot-filter-2.iml" filepath="$PROJECT_DIR$/034-springboot-filter-2/034-springboot-filter-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/050-springboot-parent/050-springboot-parent.iml" filepath="$PROJECT_DIR$/050-springboot-parent/050-springboot-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/051-springboot-interface/051-springboot-interface.iml" filepath="$PROJECT_DIR$/051-springboot-interface/051-springboot-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/052-springboot-dubbo-ssm-provider.iml" filepath="$PROJECT_DIR$/052-springboot-dubbo-ssm-provider/052-springboot-dubbo-ssm-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/053-springboot-dubbo-ssm-consumer.iml" filepath="$PROJECT_DIR$/053-springboot-dubbo-ssm-consumer/053-springboot-dubbo-ssm-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq_springboot/rabbitmq_springboot.iml" filepath="$PROJECT_DIR$/rabbitmq_springboot/rabbitmq_springboot.iml" />
+    </modules>
+  </component>
+</project>
